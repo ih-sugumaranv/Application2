@@ -14,6 +14,8 @@ import android.view.WindowManager;
 import android.webkit.WebView;
 import android.widget.Toast;
 
+import com.adjust.sdk.Adjust;
+
 //import com.google.firebase.iid.FirebaseInstanceId;
 
  public class AppTwo extends Activity {
